@@ -4,7 +4,7 @@
 
 ### Hi there,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-Saidur Rahman Setu is a content creator and Founder of <a href="https://jsbangladesh.com">JS Bangladesh</a>. He has a passion for teaching and sharing knowledge which led him to start this [YouTube channel](https://youtube.com/JSBanladesh) in 2019, where he teaches Programming and Web Design related topics.
+Saidur Rahman Setu is a content creator and Founder of <a href="https://jsbangladesh.com">JS Bangladesh</a>. He has a passion for teaching and sharing knowledge which led him to start this [YouTube channel](https://youtube.com/JSBangladesh) in 2019, where he teaches Programming and Web Design related topics.
 
 </p>
 
